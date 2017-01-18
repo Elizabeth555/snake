@@ -1,7 +1,7 @@
 [![Waffle](https://badge.waffle.io/calveym/snake.png?label=ready&title=Ready)](https://waffle.io/calveym/snake)
 #Javascript snake
 
-http://snakesonascreen.herokuapp.com/snake
+http://snakesonascreen.herokuapp.com/snake - (has loud but exciting music)
 
 
 ##Goal:
